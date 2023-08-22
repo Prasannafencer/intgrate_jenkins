@@ -10,5 +10,10 @@ public class new1 {
 		System.out.println("run test");
 	}
 	
+	@Test
+	void runtest2()
+	{
+		System.out.println("run test2");
+	}
 
 }
